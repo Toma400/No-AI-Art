@@ -47,7 +47,7 @@ these as well:
 - [Non-AI Software List](https://github.com/thatshubham/no-ai)
 
 ### Contributing
-Anyone is free to contribute entries to this repository - in a sense, this repository makes
+Anyone is free to contribute entries to this repository - in a way, this repository makes
 sense primarily if many people add their entries.  
 
 What I will request however for any contribution is to put proof (social media link,
@@ -59,3 +59,7 @@ I haven't covered visual artists because of my small knowledge of this field (si
 with movies) and also because this field has the most unified and solidary stance.  
 If anyone wants to start (either as contribution here, or as separate repo) lists for
 these categories however, feel free to.
+
+**Note**: Since genAI usage started from 2022 (debut of Dall-E, Midjourney, Stable 
+Diffusion and ChatGPT), there's no point in listing games pre-2022, hence games that
+debuted before that (and haven't received content updates) will not be added.

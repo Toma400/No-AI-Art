@@ -1,4 +1,4 @@
-Authors below are proven to not include AI in their creations. Comments allow
+Creators below are proven to not include AI in their creations. Comments allow
 creators or editors include context or specific stances. +
 Comments should be written in third person, unless it's quote or creator's own
 words.
@@ -8,6 +8,7 @@ This section should be primarily used for creators who:
 - are active in multiple fields
 - can be traced down to treat AI opposition as more ingrained in them,
   so there's more general proof letting using it instead of case-by-case analysis
+- are a team (e.g. game studio)
 
 New entries however should be added cautiously, as it's section most prone
 to potential harm caused from exposal.

@@ -41,7 +41,7 @@ to time.
 | Of Lands
 | link:creators.adoc[Creator section: Toma400]
 .^| ❎
-| turn-based strategy
+| Turn-based Strategy
 | link:https://baedoor.github.io/projects/ol.html[Website] - link:https://github.com/Toma400/OfLands[GitHub]
 
 | Vindica Secrets of Blood
