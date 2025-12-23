@@ -3,6 +3,15 @@ creators or editors include context or specific stances. +
 Comments should be written in third person, unless it's quote or creator's own
 words.
 
+This section should be primarily used for creators who:
+
+- are active in multiple fields
+- can be traced down to treat AI opposition as more ingrained in them,
+  so there's more general proof letting using it instead of case-by-case analysis
+
+New entries however should be added cautiously, as it's section most prone
+to potential harm caused from exposal.
+
 [cols="25h, 25, 25, 50"]
 |===
 .^| Artist .^| Source .^| Links .^| Comments
