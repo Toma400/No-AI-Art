@@ -1,0 +1,17 @@
+[cols="25h, 25, 25, 50"]
+|===
+| Artist
+| Source
+| Links
+| Comments
+
+| Toma400
+| Website icon, link:https://x.com/TheTrueToma400/status/1603461727680602113[Twitter thread]
+| link:https://baedoor.github.io/[Website]
+| As a creator of this repo, **I'm radically anti-AI** +
+  I think we shouldn't give companies even an inch; I don't believe in using
+  genAI "only for some things", I'm also not in favour of "opting in" or
+  training on CC-0 art - as I find it only delaying what we face now and leaving
+  artist profession (in shorter or longer term) ultimately obsolete, with all
+  what it entails (e.g. media control)
+|===
