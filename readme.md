@@ -35,6 +35,13 @@ also very uncommon in public sphere.
 While this list is meant to be rigid, it will be curated in mind that we oppose genAI
 specifically. It is not meant to promote self-censorship, but transparency and credibility.
 
+### Other lists
+I made this list myself mostly because I wanted the list that I can trust to be maintained,
+and being fairly active, I will try my best to keep it updated.  
+That said, there are other people who follow similar mission, so I thought I can promote
+these as well:
+- [Non-AI Software List](https://github.com/thatshubham/no-ai)
+
 ### Contributing
 Anyone is free to contribute entries to this repository - in a sense, this repository makes
 sense primarily if many people add their entries.  
