@@ -1,7 +1,8 @@
 = Music
 
-Music projects/bands listed below declared explicitly that they do not use genAI art for cover
-art, and (either assumedly or explicitly) they do not use genAI in their music.
+Music projects/bands listed below took the radical stance against AI or
+declared explicitly that they do not use genAI art for cover art, and (either
+assumedly or explicitly) they do not use genAI in their music.
 
 [cols="30, 30, 40"]
 |===
@@ -18,6 +19,10 @@ art, and (either assumedly or explicitly) they do not use genAI in their music.
 | Faun
 | link:https://www.facebook.com/FaunOfficial/posts/pfbid0DDG1qcK7zLugJbPisK85y8frXMZDyJYjxLHyBVxzc7fakTKBiP9pePSV4yofwHwvl[Facebook post]
 | link:https://faune.de/[Website]
+
+| Schammasch
+| link:https://www.facebook.com/SCHAMMASCH/posts/pfbid0x1w6a6LpTBXWkTNTZNsRHUfKSoW74p9SyK3ywLhivznVgKjt8X6Cqns4iHQcQQm1l[Facebook post]
+| link:https://schammasch.bandcamp.com/[Bandcamp]
 
 | Yovel
 | link:https://www.facebook.com/yovelband/posts/pfbid02KcFBkrFNE7Ck12BWeakGqoqZNshrqQxXjgUFwqqnGowDBQCiWctVhAoCHVKpUv7ml[Facebook post]

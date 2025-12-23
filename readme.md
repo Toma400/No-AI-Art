@@ -19,8 +19,8 @@ Repository is split into categories:
 The repository will only collect list of artists who are explicitly against genAI and didn't
 use it in their pipeline. The collection is meant to both promote human artists, but also
 let us feel safer when interacting with art of said person.  
-**Therefore: not being on this list does not mean anything else than just any of list's contributors
-seeing said artist explicitly be against use of AI**
+Therefore, not being on this list does not mean anything except just lack of explicit
+declaration.
 
 ### GenAI vs AI
 We (artists) know this for long time, but AI grifters (and some their listeners) tend 
