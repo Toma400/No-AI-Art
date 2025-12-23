@@ -10,14 +10,14 @@ words.
 | Toma400
 | Website icon, link:https://x.com/TheTrueToma400/status/1603461727680602113[Twitter thread], anti-AI activism
 | link:https://baedoor.github.io/[Website]
-| As a creator of this repo, **I'm radically anti-AI** +
+| As a creator of this repo, **I'm radically anti-AI**. +
   I think we shouldn't give companies even an inch; I don't believe in using
   genAI "only for some things", I'm also not in favour of "opting in" or
   training on CC-0 art - as I find it only delaying what we face now and leaving
   artist profession (in shorter or longer term) ultimately obsolete, with all
-  what it entails (e.g. media control)  +
+  what it entails (e.g. media control).  +
   I do not use any genAI in my creations, although I experimented with it to
-  know how actually useful it is (project I used it in was rewritten from
+  see how actually useful it is (project I used it in was rewritten from
   scratch). I actually find speech-to-text tools useful and may use them to
   transfer my writings into digital, albeit I hardly see it as genAI given it
   is meant to generate exactly what is said to it.

@@ -1,4 +1,4 @@
-# No AI Art
+# No AI Art Collection
 With artificial intelligence encroaching art so heavily, for long time I felt discomfort
 of losing trust to anything I see online.
 Creators - even when opposing genAI - are rarely vocal about being so (for probably good
@@ -25,7 +25,11 @@ seeing said artist explicitly be against use of AI**
 ### GenAI vs AI
 We (artists) know this for long time, but AI grifters (and some their listeners) tend 
 to do not:  
-**We oppose generative AI, not AI as a whole**
+**We oppose generative AI, not AI as a whole**.  
+
+Things like selection tools or code completion are useful tools and no artist nor coder
+fights them. The underlying issue of genAI is that it is meant to replace the process,
+all while undermining workers' power in favour of enriching companies and scammers.
 
 AI as term used for LLMs and image generators is something that AI companies realised
 quickly they can use for diversion - after all, it's catchy, and opposing something so
@@ -50,3 +54,8 @@ What I will request however for any contribution is to put proof (social media l
 screenshot from game or album cover) for submitted entries.  
 Additionally, since it is a whitelist, **submissions must be positive**, we are not trying
 to target anyone.
+
+I haven't covered visual artists because of my small knowledge of this field (similarly
+with movies) and also because this field has the most unified and solidary stance.  
+If anyone wants to start (either as contribution here, or as separate repo) lists for
+these categories however, feel free to.

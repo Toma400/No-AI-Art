@@ -11,6 +11,11 @@ category - I haven't decided on this just yet.
 |===
 .^| Game .^| Source .^| Code .^| Links
 
+| Human Upgrade Labs
+| link:https://itch.io/post/7253444[Comment on itch.io]
+| ❔
+| link:https://ultra-shenanigans.itch.io/human-upgrade-labs[Itch.io]
+
 | Vertical Kingdom
 | Intro screen
 | ❔

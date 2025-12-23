@@ -3,7 +3,7 @@
 Music projects/bands listed below declared explicitly that they do not use genAI art for cover
 art, and (either assumedly or explicitly) they do not use genAI in their music.
 
-[cols="30, 25, 45"]
+[cols="30, 30, 40"]
 |===
 .^| Artist .^| Source .^| Links
 
@@ -12,7 +12,7 @@ art, and (either assumedly or explicitly) they do not use genAI in their music.
 | link:https://blutausnord.bandcamp.com/[Bandcamp]
 
 | The Book of Seth
-| link:creators.adoc[Creator section]
+| link:creators.adoc[Creator section: Toma400]
 | link:https://zileffect.bandcamp.com/[Bandcamp]
 
 | Faun
