@@ -13,8 +13,8 @@ resource.
 
 Repository is split into categories:
 - [creators](creators.adoc) - being general list of creators, to be referred sometimes in later lists
-- [games](games.md) - games that are explicitly said to not use genAI
-- [music](music.md) - bands/projects who explicitly opposed genAI and never used genAI cover art
+- [games](games.adoc) - games that are explicitly said to not use genAI
+- [music](music.adoc) - bands/projects who explicitly opposed genAI and never used genAI cover art
 
 The repository will only collect list of artists who are explicitly against genAI and didn't
 use it in their pipeline. The collection is meant to both promote human artists, but also

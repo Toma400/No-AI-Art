@@ -1,0 +1,18 @@
+= Games
+
+Games listed below declared explicitly no usage of any AI assets. Usage of genAI in coding
+is separated category, and is unknown (❔ emoji) by default unless stated
+explicitly.
+
+Games that confirm usage of AI code will either be removed or get separate
+category - I haven't decided on this just yet.
+
+[cols="25, 25, ~, 25"]
+|===
+.^| Game .^| Source .^| Code .^| Links
+
+| Vertical Kingdom
+| Intro screen
+| ❔
+| link:https://store.steampowered.com/app/1902870/Vertical_Kingdom/[Steam] - link:https://www.gog.com/pl/game/vertical_kingdom[GOG]
+|===
