@@ -66,7 +66,7 @@ Bigger mods that are still maintained and do not use AI for its development and/
 .^| Mod .^| Source .^| Game .^| Links
 
 | Darkest Hour: Europe '44-'45
-| Vocal criticism on Discord
+| Vocal criticism from devs on Discord
 | Red Orchestra
 | link:https://store.steampowered.com/app/1280/Darkest_Hour_Europe_4445/[Steam]
 

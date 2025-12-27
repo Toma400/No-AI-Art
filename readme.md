@@ -49,15 +49,16 @@ these as well:
 
 ### Contributing
 Anyone is free to contribute entries to this repository - in a way, this repository makes
-sense primarily if many people add their entries.  
+sense primarily if many people add their entries. Feel free to create issue, PR or message
+repository author.
 
 What I will request however for any contribution is to put proof (social media link,
 screenshot from game or album cover) for submitted entries.  
 Additionally, since it is a whitelist, **submissions must be positive**, we are not trying
 to target anyone.
 
-I haven't covered visual artists because of my small knowledge of this field (similarly
-with movies) and also because this field has the most unified and solidary stance.  
+I haven't covered visual artists because of my small knowledge of this field
+and also because this field has the most unified and solidary stance.  
 If anyone wants to start (either as contribution here, or as separate repo) lists for
 these categories however, feel free to.
 

@@ -13,11 +13,11 @@ This section should be primarily used for creators who:
 New entries however should be added cautiously, as it's section most prone
 to potential harm caused from exposal.
 
-[cols="25h, 25, 25, 50"]
+[cols="25, 30, 15, 30"]
 |===
 .^| Artist .^| Source .^| Links .^| Comments
 
-| Guillermo der Toro
+| Guillermo del Toro
 | Vocal activism with multitude of sources, quotes (e.g.
   link:https://nofilmschool.com/guillermo-del-toro-die-ai["I'd rather die than use AI"]),
   Frankenstein as social commentary

@@ -1,10 +1,11 @@
 = Movies
 
-[cols="30, 30, 40"]
+[cols="30, 10, 30, 30"]
 |===
-.^| Artist .^| Source .^| Links
+.^| Movie .^| Year .^| Source .^| Links
 
 | Frankenstein
+| 2025
 | link:creators.adoc[Creator section: Guillermo del Toro]
 | link:https://www.netflix.com/pl/title/81507921[Netflix]
 |===
