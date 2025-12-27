@@ -1,4 +1,4 @@
-# No AI Art Collection
+# No AI Art List
 With artificial intelligence encroaching art so heavily, for long time I felt discomfort
 of losing trust to anything I see online.
 Creators - even when opposing genAI - are rarely vocal about being so (for probably good
@@ -13,8 +13,9 @@ resource.
 
 Repository is split into categories:
 - [creators](creators.adoc) - being general list of creators, to be referred sometimes in later lists
-- [games](games.adoc) - games that are explicitly said to not use genAI
+- [games](games.adoc) - games and bigger mods that are explicitly said to not use genAI
 - [music](music.adoc) - bands/projects who explicitly opposed genAI and never used genAI cover art
+- [movies](movies.adoc) - movies with no use of genAI and directors who oppose it
 
 The repository will only collect list of artists who are explicitly against genAI and didn't
 use it in their pipeline. The collection is meant to both promote human artists, but also

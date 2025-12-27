@@ -17,6 +17,13 @@ to potential harm caused from exposal.
 |===
 .^| Artist .^| Source .^| Links .^| Comments
 
+| Guillermo der Toro
+| Vocal activism with multitude of sources, quotes (e.g.
+  link:https://nofilmschool.com/guillermo-del-toro-die-ai["I'd rather die than use AI"]),
+  Frankenstein as social commentary
+| link:https://x.com/RealGDT[Twitter]
+|
+
 | Toma400
 | Website icon, link:https://x.com/TheTrueToma400/status/1603461727680602113[Twitter thread], anti-AI activism
 | link:https://baedoor.github.io/[Website]

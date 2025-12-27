@@ -7,11 +7,11 @@ explicitly.
 Games that confirm usage of AI code will either be removed or get separate
 category - I haven't decided on this just yet.
 
-The list is split into two sections - more important, link:games.adoc#_released[listing already released games],
-and one for link:games.adoc#_indev[upcoming projects]. The second one was added
-so that this file works also as a promotion tool - dunno about you, but I love
-following gamedevs and see them posting showcases of new features from time
-to time.
+Sections:
+
+- link:games.adoc#_released[Released Games]
+- link:games.adoc#_indev[Upcoming Games]
+- link:games.adoc#_mods[Mods]
 
 [#_released]
 == Released
@@ -28,11 +28,15 @@ to time.
 | Vertical Kingdom
 | Intro screen
 .^| ❔
-| link:https://store.steampowered.com/app/1902870/Vertical_Kingdom/[Steam] - link:https://www.gog.com/pl/game/vertical_kingdom[GOG]
+| link:https://store.steampowered.com/app/1902870/Vertical_Kingdom/[Steam]  +
+  link:https://www.gog.com/pl/game/vertical_kingdom[GOG]
 |===
 
 [#_indev]
 == In development
+
+This section was added so that this file works also as a promotion tool - dunno about you, but I love
+following gamedevs and see them posting showcases of new features from time to time.
 
 [cols="25, 25, 5, 20, 25"]
 |===
@@ -42,11 +46,40 @@ to time.
 | link:creators.adoc[Creator section: Toma400]
 .^| ❎
 | Turn-based Strategy
-| link:https://baedoor.github.io/projects/ol.html[Website] - link:https://github.com/Toma400/OfLands[GitHub]
+| link:https://baedoor.github.io/projects/ol.html[Website]  +
+  link:https://github.com/Toma400/OfLands[GitHub]
 
 | Vindica Secrets of Blood
 | link:https://x.com/SekamelicaGames/status/2002865430331883758[Twitter comment] and confirmation in DMs
 .^| ❎
 | Metroidvania
 | link:https://sekamelicagames.com/projects/vindicasecretsofblood/[Website]
+|===
+
+[#_mods]
+== Mods
+
+Bigger mods that are still maintained and do not use AI for its development and/or put a stance against it.
+
+[cols="25, 25, 25, 25"]
+|===
+.^| Mod .^| Source .^| Game .^| Links
+
+| Darkest Hour: Europe '44-'45
+| Vocal criticism on Discord
+| Red Orchestra
+| link:https://store.steampowered.com/app/1280/Darkest_Hour_Europe_4445/[Steam]
+
+| Project Tamriel
+| Explicit ban decided by team (remaining AI assets, if existing in Tamriel_Data, are being replaced)
+| The Elder Scrolls III: Morrowind
+| link:https://www.project-tamriel.com/welcome[Website]  +
+  link:https://www.nexusmods.com/morrowind/mods/44922[Project Cyrodiil's Nexus]  +
+  link:https://www.nexusmods.com/morrowind/mods/44921[Skyrim: Home of the Nords Nexus]
+
+| Tamriel Rebuilt
+| Explicit ban decided by team (remaining AI assets, if existing in Tamriel_Data, are being replaced)
+| The Elder Scrolls III: Morrowind
+| link:https://www.tamriel-rebuilt.org/[Website]  +
+  link:https://www.nexusmods.com/morrowind/mods/42145[Nexus]
 |===
