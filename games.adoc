@@ -1,8 +1,7 @@
 = Games
 
 Games listed below declared explicitly no usage of any AI assets. Usage of genAI in coding
-is separated category, and is unknown (❔ emoji) by default unless stated
-explicitly.
+is separated category, and is unknown (❔ emoji) by default unless stated explicitly.
 
 Games that confirm usage of AI code will either be removed or get separate
 category - I haven't decided on this just yet.
@@ -22,7 +21,7 @@ Sections:
 
 | Babushka's Glitch Dungeon
 | link:https://x.com/jakeonaut/status/2001165787634262468[Twitter post]
-.^| ❎
+.^| ❔
 | Platform adventure
 | link:https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/[Steam]
 
