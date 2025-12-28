@@ -16,18 +16,27 @@ Sections:
 [#_released]
 == Released
 
-[cols="25, 25, 5, 25"]
+[cols="25, 25, 5, 20, 25"]
 |===
-.^| Game .^| Source .^| Code .^| Links
+.^| Game .^| Source .^| Code .^| Genre .^| Links
+
+| Envelope
+| link:creators.adoc[Creator section: Skaar Game Productions]
+.^| ❎
+| Adventure
+| link:https://store.steampowered.com/app/2717480/Envelope/[Steam]  +
+  link:https://eirix.itch.io/envelope-game[Itch.io]
 
 | Human Upgrade Labs
 | link:https://itch.io/post/7253444[Comment on itch.io]
 .^| ❔
+| Various
 | link:https://ultra-shenanigans.itch.io/human-upgrade-labs[Itch.io]
 
 | Vertical Kingdom
 | Intro screen
 .^| ❔
+| Deck Building City Builder
 | link:https://store.steampowered.com/app/1902870/Vertical_Kingdom/[Steam]  +
   link:https://www.gog.com/pl/game/vertical_kingdom[GOG]
 |===
@@ -42,12 +51,24 @@ following gamedevs and see them posting showcases of new features from time to t
 |===
 .^| Game .^| Source .^| Code .^| Genre .^| Links
 
+| Cozy Harvest
+| link:creators.adoc[Creator section: Skaar Game Productions]
+.^| ❎
+| Horror Farming
+| link:https://store.steampowered.com/app/4076680/Cozy_Harvest/[Steam]
+
 | Of Lands
 | link:creators.adoc[Creator section: Toma400]
 .^| ❎
 | Turn-based Strategy
 | link:https://baedoor.github.io/projects/ol.html[Website]  +
   link:https://github.com/Toma400/OfLands[GitHub]
+
+| The Time I Have Left
+| link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]
+.^| ❔
+| Adventure RPG
+| link:https://store.steampowered.com/app/1918830/The_Time_I_Have_Left/[Steam]
 
 | Vindica Secrets of Blood
 | link:https://x.com/SekamelicaGames/status/2002865430331883758[Twitter comment] and confirmation in DMs
