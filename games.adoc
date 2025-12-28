@@ -70,8 +70,9 @@ following gamedevs and see them posting showcases of new features from time to t
   link:https://github.com/Toma400/OfLands[GitHub]
 
 | The Time I Have Left
-| link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]
-.^| ❔
+| link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]  +
+  link:https://x.com/ground_ga/status/2005350014902767694[Twitter comment]
+.^| ❎
 | Adventure RPG
 | link:https://store.steampowered.com/app/1918830/The_Time_I_Have_Left/[Steam]
 
