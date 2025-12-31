@@ -20,6 +20,10 @@ assumedly or explicitly) they do not use genAI in their music.
 | link:https://www.facebook.com/FaunOfficial/posts/pfbid0DDG1qcK7zLugJbPisK85y8frXMZDyJYjxLHyBVxzc7fakTKBiP9pePSV4yofwHwvl[Facebook post]
 | link:https://faune.de/[Website]
 
+| Mike Klubnika
+| link:creators.adoc[Creator section: Mike Klubnika]
+| link:https://mikeklubnika.bandcamp.com/[Bandcamp]
+
 | Nick Cave
 | link:https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/[The Red Hand Files' answer]
 | link:https://www.nickcave.com/[Website]

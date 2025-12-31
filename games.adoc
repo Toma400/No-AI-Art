@@ -25,6 +25,12 @@ Sections:
 | Platform adventure
 | link:https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/[Steam]
 
+| Buckshot Roulette
+| link:creators.adoc[Creator section: Mike Klubnika]
+.^| ❔
+| Horror Tabletop Simulator
+| link:https://store.steampowered.com/app/2835570/Buckshot_Roulette[Steam]
+
 | Envelope
 | link:creators.adoc[Creator section: Skaar Game Productions]
 .^| ❎
@@ -43,6 +49,20 @@ Sections:
 .^| ❎
 | Adventure
 | link:https://store.steampowered.com/app/593640/Papetura/[Steam]
+
+| s.p.l.i.t.
+| link:creators.adoc[Creator section: Mike Klubnika]
+.^| ❔
+| Psychological Horror
+| link:https://store.steampowered.com/app/3684610/split/?curator_clanid=45275615[Steam]  +
+  link:https://www.gog.com/en/game/split[GOG]
+
+| Unsorted Horror
+| link:creators.adoc[Creator section: Mike Klubnika]
+.^| ❔
+| Horror Mini Games
+| link:https://mikeklubnika.com/games/unsorted_horror[Website]  +
+  link:https://store.steampowered.com/app/2433730/Unsorted_Horror/[Steam]
 
 | Vertical Kingdom
 | Intro screen
