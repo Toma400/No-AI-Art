@@ -50,6 +50,13 @@ Sections:
 | Adventure
 | link:https://store.steampowered.com/app/593640/Papetura/[Steam]
 
+| Petracal
+| link:https://www.youtube.com/watch?v=a8m30u5m3pE[YouTube video with explicit anti-AI description],
+  link:https://www.facebook.com/groups/132728896890594/posts/3216389925191127/?comment_id=3216535935176526&reply_comment_id=3216659195164200[Facebook comment]
+.^| ❔
+| Dungeon Survival
+| link:https://store.steampowered.com/app/3261440/PETRACAL[Steam]
+
 | s.p.l.i.t.
 | link:creators.adoc[Creator section: Mike Klubnika]
 .^| ❔
