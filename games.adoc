@@ -38,6 +38,12 @@ Sections:
 | Various
 | link:https://ultra-shenanigans.itch.io/human-upgrade-labs[Itch.io]
 
+| Papetura
+| link:creators.adoc[Creator section: Petums Studio]
+.^| ❎
+| Adventure
+| link:https://store.steampowered.com/app/593640/Papetura/[Steam]
+
 | Vertical Kingdom
 | Intro screen
 .^| ❔
@@ -68,6 +74,12 @@ following gamedevs and see them posting showcases of new features from time to t
 | Turn-based Strategy
 | link:https://baedoor.github.io/projects/ol.html[Website]  +
   link:https://github.com/Toma400/OfLands[GitHub]
+
+| Pirofauna
+| link:creators.adoc[Creator section: Petums Studio]
+.^| ❎
+| Adventure
+| link:https://store.steampowered.com/app/2984150/Pirofauna/[Steam]
 
 | The Time I Have Left
 | link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]  +
