@@ -13,11 +13,12 @@ This section should be primarily used for creators who:
 New entries however should be added cautiously, as it's section most prone
 to potential harm caused from exposal.
 
-[cols="25, 30, 15, 30"]
+[cols="20, 10, 30, 10, 30"]
 |===
-.^| Artist .^| Source .^| Links .^| Comments
+.^| Artist .^| Fields ^.| Source .^| Links .^| Comments
 
 | Guillermo del Toro
+| Movies
 | Vocal activism with multitude of sources, quotes (e.g.
   link:https://nofilmschool.com/guillermo-del-toro-die-ai["I'd rather die than use AI"]),
   Frankenstein as social commentary
@@ -25,17 +26,23 @@ to potential harm caused from exposal.
 |
 
 | Petums Studio
+| Games
 | link:https://x.com/PetumsStudio/status/1965366270368579631[Twitter post]  +
   link:https://x.com/PetumsStudio/status/1965480304317268073[Twitter post]
 | link:https://x.com/PetumsStudio[Twitter]
 |
 
 | Skaar Game Productions
+| Games
 | Frequent reposts of anti-AI statements, including link:https://x.com/wwxwashere/status/2004756486363512866[memes like this]
 | link:https://x.com/Phantom_TheGame[Twitter]
 |
 
 | Toma400
+| Games  +
+  Music  +
+  Books +
+  Poems
 | Website banner, link:https://baedoor.github.io/wcontr/_guidelines.html[project contribution rules],
   link:https://x.com/TheTrueToma400/status/1603461727680602113[Twitter thread], anti-AI activism
 | link:https://baedoor.github.io/[Website]

@@ -68,6 +68,13 @@ following gamedevs and see them posting showcases of new features from time to t
 | Horror Farming
 | link:https://store.steampowered.com/app/4076680/Cozy_Harvest/[Steam]
 
+| Hear Tell of Hauntings
+| link:https://x.com/sean_gause/status/1942836650129908009[Twitter post]  +
+  Frequent criticism of AI on social media
+.^| ❔
+| Western Survival Horror
+| link:https://store.steampowered.com/app/3410390/Hear_Tell_of_Hauntings/[Steam]
+
 | Of Lands
 | link:creators.adoc[Creator section: Toma400]
 .^| ❎
