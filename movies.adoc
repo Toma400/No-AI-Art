@@ -8,4 +8,9 @@
 | 2025
 | link:creators.adoc[Creator section: Guillermo del Toro]
 | link:https://www.netflix.com/pl/title/81507921[Netflix]
+
+| Pluribus
+| 2025
+| End credits, link:https://www.cinemaexpress.com/english/news/2025/Nov/09/pluribus-creator-vince-gilligan-says-he-hates-ai-worlds-most-expensive-plagiarism-machine[vocal criticism from director, Vince Gilligan]
+| link:https://tv.apple.com/us/show/pluribus/umc.cmc.37axgovs2yozlyh3c2cmwzlza[AppleTV]
 |===
