@@ -22,7 +22,7 @@ Sections:
 | Babushka's Glitch Dungeon
 | link:https://x.com/jakeonaut/status/2001165787634262468[Twitter post]
 .^| ❔
-| Platform adventure
+| Platform Adventure
 | link:https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/[Steam]
 
 | Buckshot Roulette
@@ -56,6 +56,14 @@ Sections:
 .^| ❔
 | Dungeon Survival
 | link:https://store.steampowered.com/app/3261440/PETRACAL[Steam]
+
+| Shrine's Legacy
+| link:https://x.com/ShrinesLegacy/status/1998821647600746635[Twitter post]
+.^| ❎
+| (Coop) Action RPG
+| link:https://store.steampowered.com/app/1435410/Shrines_Legacy/[Steam] +
+  link:https://www.gog.com/en/game/shrines_legacy[GOG] +
+  link:https://store.epicgames.com/en-US/p/shrines-legacy-909af2[Epic]
 
 | s.p.l.i.t.
 | link:creators.adoc[Creator section: Mike Klubnika]
@@ -101,6 +109,19 @@ following gamedevs and see them posting showcases of new features from time to t
 .^| ❔
 | Western Survival Horror
 | link:https://store.steampowered.com/app/3410390/Hear_Tell_of_Hauntings/[Steam]
+
+| Hellreaper
+| https://x.com/AwesomeGamesStd/status/2001663148709892470[Twitter post]
+.^| ❔
+| Platform Action Roguelike
+| link:https://store.steampowered.com/app/2231980/HELLREAPER/[Steam]
+
+| Isle of Ansur
+| link:creators.adoc[Creator section: Toma400]
+.^| ❎
+| Text open world RPG
+| link:https://baedoor.github.io/projects/ioa.html[Website]  +
+  link:https://github.com/Toma400/The_Isle_of_Ansur[GitHub]
 
 | Of Lands
 | link:creators.adoc[Creator section: Toma400]
