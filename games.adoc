@@ -25,6 +25,13 @@ Sections:
 | Platform Adventure
 | link:https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/[Steam]
 
+| Blue Prince
+| link:https://x.com/RawFury/status/2002748999388844330[Twitter post]  +
+  link:https://fandomwire.com/fact-check-did-blue-prince-use-genai-during-development/[Analysis on FandomWire]
+.^| ❔
+| Adventure
+| link:https://store.steampowered.com/app/1569580/Blue_Prince/[Steam]
+
 | Buckshot Roulette
 | link:creators.adoc[Creator section: Mike Klubnika]
 .^| ❔
@@ -135,6 +142,12 @@ following gamedevs and see them posting showcases of new features from time to t
 .^| ❎
 | Adventure
 | link:https://store.steampowered.com/app/2984150/Pirofauna/[Steam]
+
+| Plushy Dreadfuls: The Videogame
+| link:creators.adoc[Creator section: Alice McGee]
+.^| ❔
+|
+| link:https://x.com/americanmcgee/status/2005817882811240822[Announcement]
 
 | The Time I Have Left
 | link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]  +

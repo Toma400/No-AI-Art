@@ -17,6 +17,12 @@ to potential harm caused from exposal.
 |===
 .^| Artist .^| Fields ^.| Source .^| Links .^| Comments
 
+| American McGee
+| Games
+| link:https://x.com/americanmcgee/status/2006213994022068343[Twitter post]
+| link:https://x.com/americanmcgee[Twitter]
+|
+
 | Guillermo del Toro
 | Movies
 | Vocal activism with multitude of sources, quotes (e.g.
@@ -40,6 +46,17 @@ to potential harm caused from exposal.
   link:https://x.com/PetumsStudio/status/1965480304317268073[Twitter post]
 | link:https://x.com/PetumsStudio[Twitter]
 |
+
+| Running With Scissors
+| Games
+| Strongly worded criticism of genAI, e.g. link:https://x.com/RWSstudios/status/1994033855934644492[on this Twitter post]
+  or stating quite clear opinion link:https://x.com/RWSstudios/status/1967279856317767724[on this one] or
+  link:https://x.com/RWSstudios/status/1994084011963027875[this one that touches criticism of AI code]
+| link:https://runningwithscissors.com/[Website]  +
+  link:https://x.com/RWSstudios[Twitter]
+| This takes into account the drama related to Goonsworm Games, as it feels
+  to me personally as honest mistake and the studio did all moves that would
+  be expected in this situation, including link:https://x.com/RWSstudios/status/1998068355593630181[cutting ties with the studio].
 
 | Skaar Game Productions
 | Games
