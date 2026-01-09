@@ -31,6 +31,16 @@ to potential harm caused from exposal.
 | link:https://x.com/RealGDT[Twitter]
 |
 
+| Hooded Horse
+| Games (publisher)
+| link:https://kotaku.com/hooded-horse-gen-ai-art-ban-4x-strategy-steam-2000658179[Interview with Kotaku]  +
+  link:https://x.com/HoodedHorseInc/status/2009363803448955299[Repost of the above on Twitter]
+| link:https://x.com/HoodedHorseInc[Twitter]  +
+  link:http://discord.gg/hoodedhorse[Discord]  +
+  link:https://store.steampowered.com/publisher/HoodedHorse[Steam catalogue]
+| Per article, HH as a publisher puts requirement for games that are contracted
+  to not have AI-generated assets, thus it is legal binding
+
 | Mike Klubnika
 | Games +
   Music
