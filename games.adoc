@@ -45,11 +45,30 @@ Sections:
 | link:https://store.steampowered.com/app/2717480/Envelope/[Steam]  +
   link:https://eirix.itch.io/envelope-game[Itch.io]
 
+| Gibbous - A Cthulhu Adventure
+| link:creators.adoc[Creator section: Stuck In Attic]
+.^| ❔
+| Detective Horror Adventure
+| link:https://store.steampowered.com/app/914020/Gibbous___A_Cthulhu_Adventure/[Steam]
+
 | Human Upgrade Labs
 | link:https://itch.io/post/7253444[Comment on itch.io]
 .^| ❔
 | Various
 | link:https://ultra-shenanigans.itch.io/human-upgrade-labs[Itch.io]
+
+| Near-Mage
+| link:creators.adoc[Creator section: Stuck In Attic]
+.^| ❔
+| Fantasy Adventure
+| link:https://store.steampowered.com/app/1685870/NearMage/[Steam]
+
+| Neofeud
+| link:https://x.com/SilverSpookGuy/status/1994105288811794899[Twitter post]
+.^| ❔
+| Sci-fi Adventure
+| link:https://store.steampowered.com/app/673850/Neofeud/[Steam]
+  link:https://silverspook.itch.io/neofeud[Itch.io]
 
 | Papetura
 | link:creators.adoc[Creator section: Petums Studio]
@@ -118,10 +137,16 @@ following gamedevs and see them posting showcases of new features from time to t
 | link:https://store.steampowered.com/app/3410390/Hear_Tell_of_Hauntings/[Steam]
 
 | Hellreaper
-| https://x.com/AwesomeGamesStd/status/2001663148709892470[Twitter post]
+| link:https://x.com/AwesomeGamesStd/status/2001663148709892470[Twitter post]
 .^| ❔
 | Platform Action Roguelike
 | link:https://store.steampowered.com/app/2231980/HELLREAPER/[Steam]
+
+| Hocus Focus
+| link:creators.adoc[Creator section: Stuck In Attic]
+.^| ❔
+| Adventure / Ambient
+| link:https://store.steampowered.com/app/4202710/Hocus_Focus/[Steam]
 
 | Isle of Ansur
 | link:creators.adoc[Creator section: Toma400]
