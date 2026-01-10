@@ -59,9 +59,11 @@ to potential harm caused from exposal.
 
 | Running With Scissors
 | Games
-| Strongly worded criticism of genAI, e.g. link:https://x.com/RWSstudios/status/1994033855934644492[on this Twitter post]
-  or stating quite clear opinion link:https://x.com/RWSstudios/status/1967279856317767724[on this one] or
-  link:https://x.com/RWSstudios/status/1994084011963027875[this one that touches criticism of AI code]
+| Strongly worded criticism of genAI, e.g. link:https://x.com/RWSstudios/status/1994033855934644492[on this Twitter post],
+  link:https://x.com/RWSstudios/status/1952354557981245793[this one],
+  or link:https://x.com/RWSstudios/status/1866124599148048630[this one],
+  pointing out its effects on unemployment link:https://x.com/RWSstudios/status/1759217341018132707[here] or
+  link:https://x.com/RWSstudios/status/1994084011963027875[criticising AI code here]
 | link:https://runningwithscissors.com/[Website]  +
   link:https://x.com/RWSstudios[Twitter]
 | This takes into account the drama related to Goonsworm Games, as it feels
