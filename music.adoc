@@ -8,6 +8,12 @@ assumedly or explicitly) they do not use genAI in their music.
 |===
 .^| Artist .^| Source .^| Links
 
+| bbno$
+| Vocal opposition against AI, such as link:https://x.com/bbnomula/status/1979073796121465136[this tweet],
+  active support to human artists (see link:https://mashable.com/article/bbno-add-music-video-no-ai-interview[here] and link:https://www.facebook.com/bbnomula/posts/pfbid02D8oqX8QeDzkMFm11ErEJTNgUFGvsAPt2ZvNcwwjNpzxnGhgiWBsaGZbZ5Ti9hokal[here]),
+  and general dismissal in various form link:https://x.com/bbnomula/status/1905963574121414928[as in this tweet]
+| link:https://bbnomula.com/[Website]
+
 | Blut Aus Nord
 | link:https://www.facebook.com/Vindsval.official/posts/pfbid02zPySy3RnUuEwFnwUeuojmdvh9VB4G4EExY8hSBnZ3rvTAFQ8KLMRdCnrext1PRxul[Facebook post]
 | link:https://blutausnord.bandcamp.com/[Bandcamp]
