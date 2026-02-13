@@ -9,6 +9,11 @@
 | link:creators.adoc[Creator section: Guillermo del Toro]
 | link:https://www.netflix.com/pl/title/81507921[Netflix]
 
+| Good Luck, Have Fun, Don't Die
+| 2026
+| link:creators.adoc[Creator section: Gore Verbinski]
+| link:https://www.goodluckhavefundontdiemovie.com/[Theatre screening tracker]
+
 | Pluribus
 | 2025
 | End credits, link:https://www.cinemaexpress.com/english/news/2025/Nov/09/pluribus-creator-vince-gilligan-says-he-hates-ai-worlds-most-expensive-plagiarism-machine[vocal criticism from director, Vince Gilligan]
