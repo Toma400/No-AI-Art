@@ -65,3 +65,24 @@ these categories however, feel free to.
 **Note**: Since genAI usage started from 2022 (debut of Dall-E, Midjourney, Stable 
 Diffusion and ChatGPT), there's no point in listing games pre-2022, hence games that
 debuted before that (and haven't received content updates) will not be added.
+
+### Correctness
+The list is not promised to be 100% correct. It is built heavily on trust and it being
+iteratively corrected by community whenever there's a need. Some statements cannot be
+verified (e.g. it can be incredibly hard to tell if code is generated, not to say games
+usually don't include their source) and that's okay - it's just a limitation of such
+initiative.
+
+That said, as a creator I will put my best to keep it as much reliable as it is possible
+within these limitations, reviewing every entry and ensuring it has good sources, including
+doing additional research on creators' consistency.
+
+### Author
+If you don't know me, hello, I'm Toma400, or Toma. I put up my stance against AI on
+September 2022, before even Steven Zapata's video and ArtStation protest. It can be
+found on my Discord server. Ever since, I've been vocal about this issue and active
+in social media for a while, supporting various protests.  
+Creatively, I'm a polymath programming games, creating music, writing/poems, drawing 
+and worldbuilding my steampunk/fantasy universe. Art is the dearest thing to me 
+(both as an artist and enjoyer) which is why I was radically opposed to it from the 
+very start.
