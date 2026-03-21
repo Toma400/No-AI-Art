@@ -154,6 +154,12 @@ following gamedevs and see them posting showcases of new features from time to t
 | Platform Action Roguelike
 | link:https://store.steampowered.com/app/2231980/HELLREAPER/[Steam]
 
+| Hoarder
+| link:https://x.com/NegativeVibrat1/status/2035406413430751704[Twitter post]
+.^| ❔
+| Horror Adventure
+| link:https://store.steampowered.com/app/3551140/Hoarder/[Steam]
+
 | Hocus Focus
 | link:creators.adoc[Creator section: Stuck In Attic]
 .^| ❔
