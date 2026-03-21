@@ -136,8 +136,8 @@ following gamedevs and see them posting showcases of new features from time to t
 | link:https://store.steampowered.com/app/4076680/Cozy_Harvest/[Steam]
 
 | Cryptica
-| link:https://x.com/Grambitious/status/2035082546187276734[Twitter post]
-.^| ❔
+| link:https://x.com/Grambitious/status/2035082546187276734[Twitter post] and link:https://x.com/Grambitious/status/2035344364520505638[clarification on code]
+.^| ❎
 | Horror Adventure
 | link:https://store.steampowered.com/app/2886380/Cryptica/[Steam]
 
