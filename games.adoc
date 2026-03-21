@@ -57,6 +57,12 @@ Sections:
 | Various
 | link:https://ultra-shenanigans.itch.io/human-upgrade-labs[Itch.io]
 
+| Lunark
+| Twitter posts: link:https://x.com/johanvinet/status/2035068817680875565[Main one] and link:https://x.com/johanvinet/status/2035170276850200610[additional comment]
+.^| ❔
+| Platform Sci-fi Adventure
+| link:https://store.steampowered.com/app/1050370/LUNARK/[Steam]
+
 | Near-Mage
 | link:creators.adoc[Creator section: Stuck In Attic]
 .^| ❔
