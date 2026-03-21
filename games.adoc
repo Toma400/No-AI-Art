@@ -135,6 +135,12 @@ following gamedevs and see them posting showcases of new features from time to t
 | Horror Farming
 | link:https://store.steampowered.com/app/4076680/Cozy_Harvest/[Steam]
 
+| Cryptica
+| link:https://x.com/Grambitious/status/2035082546187276734[Twitter post]
+.^| ❔
+| Horror Adventure
+| link:https://store.steampowered.com/app/2886380/Cryptica/[Steam]
+
 | Hear Tell of Hauntings
 | link:https://x.com/sean_gause/status/1942836650129908009[Twitter post]  +
   Frequent criticism of AI on social media
