@@ -22,6 +22,10 @@ assumedly or explicitly) they do not use genAI in their music.
 | link:creators.adoc[Creator section: Toma400]
 | link:https://zileffect.bandcamp.com/[Bandcamp]
 
+| Dead Can Dance
+| link:https://www.instagram.com/p/DWGiZYGDP_x/[Instagram post] and further link:https://www.facebook.com/DeadCanDanceOfficial/posts/pfbid0285iF16t5f2VQMUovCCZQ6P1GqKyw4RY1L47snePMKRuAeyc4zZwuJ69i8wMVo61wl?comment_id=3926209831006934&reply_comment_id=2347324955768417[clarification on Facebook about authorship]
+| link:https://deadcandance.bandcamp.com/[Bandcamp]
+
 | Faun
 | link:https://www.facebook.com/FaunOfficial/posts/pfbid0DDG1qcK7zLugJbPisK85y8frXMZDyJYjxLHyBVxzc7fakTKBiP9pePSV4yofwHwvl[Facebook post]
 | link:https://faune.de/[Website]
