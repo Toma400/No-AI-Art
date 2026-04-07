@@ -117,6 +117,12 @@ Sections:
 | Deck Building City Builder
 | link:https://store.steampowered.com/app/1902870/Vertical_Kingdom/[Steam]  +
   link:https://www.gog.com/pl/game/vertical_kingdom[GOG]
+
+| Warframe
+| link:creators.adoc[Creator section: Digital Extremes]
+.^| ❔
+| Action Shooter
+| link:https://store.steampowered.com/app/230410/Warframe/[Steam]
 |===
 
 [#_indev]
@@ -191,6 +197,12 @@ following gamedevs and see them posting showcases of new features from time to t
 .^| ❔
 |
 | link:https://x.com/americanmcgee/status/2005817882811240822[Announcement]
+
+| Soulframe
+| link:creators.adoc[Creator section: Digital Extremes]
+.^| ❔
+| Action
+| link:https://store.steampowered.com/app/4095380/Soulframe/[Steam]
 
 | The Time I Have Left
 | link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]  +
