@@ -4,6 +4,11 @@
 |===
 .^| Movie .^| Year .^| Source .^| Links
 
+| Backrooms
+| 2026
+| Kane Persons' link:https://www.gamesradar.com/entertainment/horror-movies/director-of-one-of-2026s-biggest-surprise-horror-hits-slams-genai-if-i-could-snap-my-fingers-and-make-generative-ai-disappear-forever-i-probably-would/[viral opposition] and disagreement on A24's collaboration with DeepMind
+| link:https://www.justwatch.com/us/movie/backrooms[Theatres]
+
 | Frankenstein
 | 2025
 | link:creators.adoc[Creator section: Guillermo del Toro]
@@ -12,7 +17,7 @@
 | Good Luck, Have Fun, Don't Die
 | 2026
 | link:creators.adoc[Creator section: Gore Verbinski]
-| link:https://www.goodluckhavefundontdiemovie.com/[Theatre screening tracker]
+| link:https://www.justwatch.com/us/movie/good-luck-have-fun-dont-die[Hulu / Prime Video]
 
 | Pluribus
 | 2025

@@ -38,6 +38,12 @@ Sections:
 | Horror Tabletop Simulator
 | link:https://store.steampowered.com/app/2835570/Buckshot_Roulette[Steam]
 
+| Deer & Boy
+| link:https://x.com/DeerAndBoyGame/status/2066900331686932840[Twitter post]
+.^| ❔
+| Adventure
+| link:https://www.justwatch.com/us/movie/good-luck-have-fun-dont-die[Steam]
+
 | Envelope
 | link:creators.adoc[Creator section: Skaar Game Productions]
 .^| ❎
@@ -172,12 +178,24 @@ following gamedevs and see them posting showcases of new features from time to t
 | Adventure / Ambient
 | link:https://store.steampowered.com/app/4202710/Hocus_Focus/[Steam]
 
+| House of Decay
+| link:https://x.com/Whiteboxcon/status/2051834534753124531[Twitter post]
+.^| ❔
+| Action / Adventure
+| link:https://store.steampowered.com/app/2899350/House_Of_Decay/[Steam]
+
 | Isle of Ansur
 | link:creators.adoc[Creator section: Toma400]
 .^| ❎
 | Text open world RPG
 | link:https://baedoor.github.io/projects/ioa.html[Website]  +
   link:https://github.com/Toma400/The_Isle_of_Ansur[GitHub]
+
+| Nozomu School Daze
+| link:https://x.com/marooninkstudio/status/2051829514850951597[Twitter post]
+.^| ❎
+| Visual Novel
+| link:https://store.steampowered.com/app/4808290/Nozomu_School_Daze/[Steam]
 
 | Of Lands
 | link:creators.adoc[Creator section: Toma400]
