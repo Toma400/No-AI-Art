@@ -1,4 +1,6 @@
 = Music
+:opening-bracket: &#91;
+:closing-bracket: &#93;
 
 Music projects/bands listed below took the radical stance against AI or
 declared explicitly that they do not use genAI art for cover art, and (either
@@ -21,6 +23,10 @@ assumedly or explicitly) they do not use genAI in their music.
 | The Book of Seth
 | link:creators.adoc[Creator section: Toma400]
 | link:https://zileffect.bandcamp.com/[Bandcamp]
+
+| Cawatana
+| link:https://www.facebook.com/Side.Line.Magazine/posts/pfbid02jyDS4TwU9XoYzLiLsKJSrDxzoPkPPDsKCVW91nLLT8mQJBvfTfovLfPkwBPgAsFSl?comment_id=3578490872306711&__cft__{opening-bracket}0{closing-bracket}=AZY3TR6yvN9jPEXttK-ocyNIQ08M_UJejcwwp26g2nxtH2X95ePv5gwz7c-_kpfmeoebphgzye4Da4xWv-dFszL_zMmasQ_ozUKZEJlka8PSBJDd7YkLmQWx04EEg6FAw8xkw77nHZs0CEnoaJHA7BhwXNjeby5i4xSZQ6YFkIvQNg&__tn__=R{closing-bracket}-R[Facebook comment]
+| link:https://cawatana.bandcamp.com/[Bandcamp]
 
 | Faun
 | link:https://www.facebook.com/FaunOfficial/posts/pfbid0DDG1qcK7zLugJbPisK85y8frXMZDyJYjxLHyBVxzc7fakTKBiP9pePSV4yofwHwvl[Facebook post]

@@ -222,6 +222,12 @@ following gamedevs and see them posting showcases of new features from time to t
 | Action
 | link:https://store.steampowered.com/app/4095380/Soulframe/[Steam]
 
+| Summoning
+| link:https://www.finalsoftware.org/the-ai-post[Anti-AI post], also clarified in DMs
+.^| ❎
+| Action RPG
+| link:https://www.finalsoftware.org/summoning[Website]
+
 | The Time I Have Left
 | link:https://x.com/ground_ga/status/2001722701157638247[Twitter post]  +
   link:https://x.com/ground_ga/status/2005350014902767694[Twitter comment]
