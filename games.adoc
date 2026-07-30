@@ -223,7 +223,7 @@ following gamedevs and see them posting showcases of new features from time to t
 | link:https://store.steampowered.com/app/4095380/Soulframe/[Steam]
 
 | Summoning
-| link:https://www.finalsoftware.org/the-ai-post[Anti-AI post], also clarified in DMs
+| link:https://www.finalsoftware.org/the-ai-post[AI-critical post], also clarified in DMs
 .^| ❎
 | Action RPG
 | link:https://www.finalsoftware.org/summoning[Website]

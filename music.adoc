@@ -62,6 +62,11 @@ assumedly or explicitly) they do not use genAI in their music.
 | link:https://www.facebook.com/Vestigialband/posts/pfbid035eBhJ6qX3iXdffzV5vuiFDJHWPGidyksHsnouSLRShGXJ1nDkYuWznxVGCNwKLo2l[Facebook post]
 | link:https://vestigialband.com/home[Website]
 
+| 'Weird Al' Yankovic
+| link:https://www.avclub.com/weird-al-yankovic-ai-commercial-exit[Declining AI offer]
+| link:https://www.youtube.com/@alyankovic[YouTube]  +
+  link:https://www.weirdal.com/[Website]
+
 | Yovel
 | link:https://www.facebook.com/yovelband/posts/pfbid02KcFBkrFNE7Ck12BWeakGqoqZNshrqQxXjgUFwqqnGowDBQCiWctVhAoCHVKpUv7ml[Facebook post]
 | link:https://yovel.bandcamp.com/[Bandcamp]
