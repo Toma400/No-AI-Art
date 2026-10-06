@@ -32,6 +32,12 @@ assumedly or explicitly) they do not use genAI in their music.
 | link:https://www.facebook.com/FaunOfficial/posts/pfbid0DDG1qcK7zLugJbPisK85y8frXMZDyJYjxLHyBVxzc7fakTKBiP9pePSV4yofwHwvl[Facebook post]
 | link:https://faune.de/[Website]
 
+| Joost (Klein)
+| link:https://www.youtube.com/watch?v=38SwIKkkKf0[End credits for Capitalism video],
+  consistent with DIY nature of Joost's art
+| link:https://joostklein.eu/[Website]  +
+  link:https://www.youtube.com/channel/UCxmh9CHjpMmQGFHvZQt0GTQ[YouTube]
+
 | Mike Klubnika
 | link:creators.adoc[Creator section: Mike Klubnika]
 | link:https://mikeklubnika.bandcamp.com/[Bandcamp]
