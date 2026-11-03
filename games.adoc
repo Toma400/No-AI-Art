@@ -101,6 +101,12 @@ Sections:
 | Dungeon Survival
 | link:https://store.steampowered.com/app/3261440/PETRACAL[Steam]
 
+| Queen's Domain
+| link:https://x.com/QueensDomain_/status/2117349747098788036[Twitter reply]
+.^| ❔
+| Action RPG
+| link:https://store.steampowered.com/app/1799840/Queens_Domain/[Steam]
+
 | Shrine's Legacy
 | link:https://x.com/ShrinesLegacy/status/1998821647600746635[Twitter post]
 .^| ❎
